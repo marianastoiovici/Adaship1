@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Adaship.dir/main.cpp.o  -o Adaship 
