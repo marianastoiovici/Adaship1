@@ -1,6 +1,7 @@
 file(REMOVE_RECURSE
   "Adaship"
   "Adaship.pdb"
+  "CMakeFiles/Adaship.dir/Config.cpp.o"
   "CMakeFiles/Adaship.dir/main.cpp.o"
 )
 

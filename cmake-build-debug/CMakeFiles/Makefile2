@@ -44,10 +44,10 @@ RM = /opt/clion-2020.1/bin/cmake/linux/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /usr/local/google/home/mstoiovici/CLionProjects/Adaship
+CMAKE_SOURCE_DIR = /usr/local/google/home/mstoiovici/CLionProjects/NewAdaShip
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /usr/local/google/home/mstoiovici/CLionProjects/Adaship/cmake-build-debug
+CMAKE_BINARY_DIR = /usr/local/google/home/mstoiovici/CLionProjects/NewAdaShip/cmake-build-debug
 
 #=============================================================================
 # Directory level rules for the build root directory
@@ -74,14 +74,14 @@ clean: CMakeFiles/Adaship.dir/clean
 CMakeFiles/Adaship.dir/all:
 	$(MAKE) -f CMakeFiles/Adaship.dir/build.make CMakeFiles/Adaship.dir/depend
 	$(MAKE) -f CMakeFiles/Adaship.dir/build.make CMakeFiles/Adaship.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/usr/local/google/home/mstoiovici/CLionProjects/Adaship/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target Adaship"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/usr/local/google/home/mstoiovici/CLionProjects/NewAdaShip/cmake-build-debug/CMakeFiles --progress-num=1,2,3 "Built target Adaship"
 .PHONY : CMakeFiles/Adaship.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Adaship.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /usr/local/google/home/mstoiovici/CLionProjects/Adaship/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /usr/local/google/home/mstoiovici/CLionProjects/NewAdaShip/cmake-build-debug/CMakeFiles 3
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/Adaship.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /usr/local/google/home/mstoiovici/CLionProjects/Adaship/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /usr/local/google/home/mstoiovici/CLionProjects/NewAdaShip/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/Adaship.dir/rule
 
 # Convenience name for target.

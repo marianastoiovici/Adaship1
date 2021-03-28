@@ -1,4 +1,4 @@
-/opt/clion-2020.1/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /usr/local/google/home/mstoiovici/CLionProjects/Adaship
+/opt/clion-2020.1/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /usr/local/google/home/mstoiovici/CLionProjects/NewAdaShip
 -- The C compiler identification is GNU 10.2.1
 -- The CXX compiler identification is GNU 10.2.1
 -- Check for working C compiler: /usr/bin/cc
@@ -15,4 +15,4 @@
 -- Detecting CXX compile features - done
 -- Configuring done
 -- Generating done
--- Build files have been written to: /usr/local/google/home/mstoiovici/CLionProjects/Adaship/cmake-build-debug
+-- Build files have been written to: /usr/local/google/home/mstoiovici/CLionProjects/NewAdaShip/cmake-build-debug

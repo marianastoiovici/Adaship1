@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/usr/local/google/home/mstoiovici/CLionProjects/NewAdaShip/Config.cpp
+iostream
+-
+fstream
+-
+Config.h
+/usr/local/google/home/mstoiovici/CLionProjects/NewAdaShip/Config.h
+
+/usr/local/google/home/mstoiovici/CLionProjects/NewAdaShip/Config.h
+string
+-
+vector
+-
+
+/usr/local/google/home/mstoiovici/CLionProjects/NewAdaShip/main.cpp
+iostream
+-
+Config.h
+/usr/local/google/home/mstoiovici/CLionProjects/NewAdaShip/Config.h
+
