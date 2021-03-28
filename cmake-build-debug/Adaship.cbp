@@ -88,7 +88,10 @@
 		<Unit filename="/usr/local/google/home/mstoiovici/CLionProjects/NewAdaShip/Config.h">
 			<Option target="Adaship"/>
 		</Unit>
-		<Unit filename="/usr/local/google/home/mstoiovici/CLionProjects/NewAdaShip/adaship_config.ini">
+		<Unit filename="/usr/local/google/home/mstoiovici/CLionProjects/NewAdaShip/GameController.cpp">
+			<Option target="Adaship"/>
+		</Unit>
+		<Unit filename="/usr/local/google/home/mstoiovici/CLionProjects/NewAdaShip/GameController.h">
 			<Option target="Adaship"/>
 		</Unit>
 		<Unit filename="/usr/local/google/home/mstoiovici/CLionProjects/NewAdaShip/main.cpp">

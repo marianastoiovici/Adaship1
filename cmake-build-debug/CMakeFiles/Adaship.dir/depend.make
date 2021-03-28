@@ -4,6 +4,11 @@
 CMakeFiles/Adaship.dir/Config.cpp.o: ../Config.cpp
 CMakeFiles/Adaship.dir/Config.cpp.o: ../Config.h
 
+CMakeFiles/Adaship.dir/GameController.cpp.o: ../Config.h
+CMakeFiles/Adaship.dir/GameController.cpp.o: ../GameController.cpp
+CMakeFiles/Adaship.dir/GameController.cpp.o: ../GameController.h
+
 CMakeFiles/Adaship.dir/main.cpp.o: ../Config.h
+CMakeFiles/Adaship.dir/main.cpp.o: ../GameController.h
 CMakeFiles/Adaship.dir/main.cpp.o: ../main.cpp
 

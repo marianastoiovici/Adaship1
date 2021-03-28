@@ -5,6 +5,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
   "/usr/local/google/home/mstoiovici/CLionProjects/NewAdaShip/Config.cpp" "/usr/local/google/home/mstoiovici/CLionProjects/NewAdaShip/cmake-build-debug/CMakeFiles/Adaship.dir/Config.cpp.o"
+  "/usr/local/google/home/mstoiovici/CLionProjects/NewAdaShip/GameController.cpp" "/usr/local/google/home/mstoiovici/CLionProjects/NewAdaShip/cmake-build-debug/CMakeFiles/Adaship.dir/GameController.cpp.o"
   "/usr/local/google/home/mstoiovici/CLionProjects/NewAdaShip/main.cpp" "/usr/local/google/home/mstoiovici/CLionProjects/NewAdaShip/cmake-build-debug/CMakeFiles/Adaship.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")

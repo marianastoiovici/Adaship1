@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-#include "Config.h"
+#include "GameController.h"
 
 int main() {
   // Instantiate a Config object
@@ -13,6 +13,9 @@ int main() {
     cout << "There seems to be a problem with the config file.\n";
     return 0;
   }
+
+  GameController gameController(config);
+  gameController.menu();
 
   return 0;
 }

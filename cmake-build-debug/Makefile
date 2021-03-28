@@ -150,6 +150,33 @@ Config.cpp.s:
 	$(MAKE) -f CMakeFiles/Adaship.dir/build.make CMakeFiles/Adaship.dir/Config.cpp.s
 .PHONY : Config.cpp.s
 
+GameController.o: GameController.cpp.o
+
+.PHONY : GameController.o
+
+# target to build an object file
+GameController.cpp.o:
+	$(MAKE) -f CMakeFiles/Adaship.dir/build.make CMakeFiles/Adaship.dir/GameController.cpp.o
+.PHONY : GameController.cpp.o
+
+GameController.i: GameController.cpp.i
+
+.PHONY : GameController.i
+
+# target to preprocess a source file
+GameController.cpp.i:
+	$(MAKE) -f CMakeFiles/Adaship.dir/build.make CMakeFiles/Adaship.dir/GameController.cpp.i
+.PHONY : GameController.cpp.i
+
+GameController.s: GameController.cpp.s
+
+.PHONY : GameController.s
+
+# target to generate assembly for a file
+GameController.cpp.s:
+	$(MAKE) -f CMakeFiles/Adaship.dir/build.make CMakeFiles/Adaship.dir/GameController.cpp.s
+.PHONY : GameController.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -189,6 +216,9 @@ help:
 	@echo "... Config.o"
 	@echo "... Config.i"
 	@echo "... Config.s"
+	@echo "... GameController.o"
+	@echo "... GameController.i"
+	@echo "... GameController.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

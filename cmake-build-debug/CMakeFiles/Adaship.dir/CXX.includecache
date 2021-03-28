@@ -6,22 +6,28 @@
 
 #IncludeRegexTransform: 
 
-/usr/local/google/home/mstoiovici/CLionProjects/NewAdaShip/Config.cpp
-iostream
--
-fstream
--
-Config.h
-/usr/local/google/home/mstoiovici/CLionProjects/NewAdaShip/Config.h
-
 /usr/local/google/home/mstoiovici/CLionProjects/NewAdaShip/Config.h
 string
 -
 vector
 -
 
-/usr/local/google/home/mstoiovici/CLionProjects/NewAdaShip/main.cpp
+/usr/local/google/home/mstoiovici/CLionProjects/NewAdaShip/GameController.cpp
 iostream
+-
+string
+-
+time.h
+-
+chrono
+-
+thread
+-
+GameController.h
+/usr/local/google/home/mstoiovici/CLionProjects/NewAdaShip/GameController.h
+
+/usr/local/google/home/mstoiovici/CLionProjects/NewAdaShip/GameController.h
+string
 -
 Config.h
 /usr/local/google/home/mstoiovici/CLionProjects/NewAdaShip/Config.h
